@@ -10,7 +10,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"Prisma.prisma"
+				"Prisma.prisma",
+				"github.vscode-github-actions",
+				"esbenp.prettier-vscode"
 			],
 			"settings": {
 				"terminal.integrated.defaultProfile.linux": "zsh",
