@@ -1,6 +1,6 @@
 name: Feature Request Issues
 description: Use this template for raising a feature request. If this doesn’t look right, choose a different type.
-labels: 'type:feature'
+labels: 'type/feature'
 body:
   - type: markdown
     id: linkmodel
